@@ -1,4 +1,3 @@
-#html 
 OBJECTIVE:
 To Create a simplified clone of Dribbble landing page.
 
@@ -206,6 +205,7 @@ Page.html
 </html>
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-07-03 144623-1.png>)
+![Screenshot 2024-07-03 144623](https://github.com/R01ty/ragul.css/assets/142526219/adab4502-0a63-4aa3-971b-0ce1ac55417f)
+
  
 
